@@ -11,6 +11,7 @@ Get usage by running
 # Build
 
 Java:
+
 ● Install Maven
 
 ● Go to: ..\LuxerinaObfuscator and execute mvn clean install
