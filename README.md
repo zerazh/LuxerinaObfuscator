@@ -14,4 +14,4 @@ Java:
 
 ● Install Maven
 
-● Go to: ..\LuxerinaObfuscator and execute mvn clean install
+● Go to: ```..\LuxerinaObfuscator``` and execute ```mvn clean install```
