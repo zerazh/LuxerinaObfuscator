@@ -7,3 +7,9 @@ Java bytecode obfuscator
 Get usage by running
 
 ```java -jar luxerina-1.0-SNAPSHOT.jar --input <inputjar> --output <outputjar>```
+
+# Build
+
+Java:
+● Install Maven
+● Go to: ..\LuxerinaObfuscator and execute mvn clean install
